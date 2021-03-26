@@ -1,0 +1,28 @@
+.kasus{
+    text-align: center;
+    padding-left: 18%;
+    width: 150%;
+}
+.container-fluid{
+    background-color: rgb(240, 235, 240);
+}
+.navbar-brand{
+    font-family: "brush script MT";
+}
+.container{
+    margin-top: 60px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    margin-bottom: 40px;
+    background-color: white ;
+}
+.container p{
+    text-align: center;
+    font-family: bold;
+    padding-bottom: 30px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.foot{
+    background-color: rgb(255, 255, 255);
+}
